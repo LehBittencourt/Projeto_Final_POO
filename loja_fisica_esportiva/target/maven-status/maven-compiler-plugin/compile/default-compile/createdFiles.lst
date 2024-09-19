@@ -1,0 +1,11 @@
+com\mycompany\loja_fisica_esportiva\Pessoa.class
+com\mycompany\loja_fisica_esportiva\Funcionario.class
+com\mycompany\loja_fisica_esportiva\ItemEstoque.class
+com\mycompany\loja_fisica_esportiva\Cliente.class
+com\mycompany\loja_fisica_esportiva\ItemPedido.class
+com\mycompany\loja_fisica_esportiva\Administrador.class
+com\mycompany\loja_fisica_esportiva\Estoque.class
+com\mycompany\loja_fisica_esportiva\Loja_fisica_esportiva.class
+com\mycompany\loja_fisica_esportiva\Pedido.class
+com\mycompany\loja_fisica_esportiva\Produto.class
+com\mycompany\loja_fisica_esportiva\Vendedor.class
